@@ -1,0 +1,23 @@
+# See PEP 518: https://www.python.org/dev/peps/pep-0518/ for info on this file's structure.
+
+[tool.pyflow]
+name = ""
+py_version = "3.8"
+version = "0.0.1"
+authors = ["David O'Connor <david.alan.oconnor@gmail.com>"]
+
+
+[tool.pyflow.scripts]
+
+
+[tool.pyflow.dependencies]
+django = "^3.0.2"
+djangorestframework = "^3.11.0"
+saturn = "^0.3.5"
+gunicorn = "^20.0.4"
+psycopg2 = "^2.8.4"
+
+
+[tool.pyflow.dev-dependencies]
+black = "^19.10.0b0"
+

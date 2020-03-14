@@ -1,0 +1,127 @@
+[[package]]
+id = 18
+name = "attrs"
+version = "19.3.0"
+source = "pypi+https://pypi.org/pypi/attrs/19.3.0/json"
+dependencies = []
+
+[[package]]
+id = 7
+name = "djangorestframework"
+version = "3.11.0"
+source = "pypi+https://pypi.org/pypi/djangorestframework/3.11.0/json"
+dependencies = ["Django 3.0.4 pypi+https://pypi.org/pypi/Django/3.0.4/json"]
+
+[[package]]
+id = 8
+name = "Django"
+version = "3.0.4"
+source = "pypi+https://pypi.org/pypi/Django/3.0.4/json"
+dependencies = ["sqlparse 0.3.1 pypi+https://pypi.org/pypi/sqlparse/0.3.1/json", "asgiref 3.2.5 pypi+https://pypi.org/pypi/asgiref/3.2.5/json"]
+
+[[package]]
+id = 14
+name = "regex"
+version = "2020.2.20"
+source = "pypi+https://pypi.org/pypi/regex/2020.2.20/json"
+dependencies = []
+
+[[package]]
+id = 11
+name = "psycopg2"
+version = "2.8.4"
+source = "pypi+https://pypi.org/pypi/psycopg2/2.8.4/json"
+dependencies = []
+
+[[package]]
+id = 9
+name = "gunicorn"
+version = "20.0.4"
+source = "pypi+https://pypi.org/pypi/gunicorn/20.0.4/json"
+dependencies = ["setuptools 46.0.0 pypi+https://pypi.org/pypi/setuptools/46.0.0/json"]
+
+[[package]]
+id = 8
+name = "Django"
+version = "3.0.4"
+source = "pypi+https://pypi.org/pypi/Django/3.0.4/json"
+dependencies = ["sqlparse 0.3.1 pypi+https://pypi.org/pypi/sqlparse/0.3.1/json", "asgiref 3.2.5 pypi+https://pypi.org/pypi/asgiref/3.2.5/json"]
+
+[[package]]
+id = 12
+name = "black"
+version = "19.10.0b0"
+source = "pypi+https://pypi.org/pypi/black/19.10.0b0/json"
+dependencies = ["click 7.1.1 pypi+https://pypi.org/pypi/click/7.1.1/json", "regex 2020.2.20 pypi+https://pypi.org/pypi/regex/2020.2.20/json", "appdirs 1.4.3 pypi+https://pypi.org/pypi/appdirs/1.4.3/json", "typed-ast 1.4.1 pypi+https://pypi.org/pypi/typed-ast/1.4.1/json", "pathspec 0.7.0 pypi+https://pypi.org/pypi/pathspec/0.7.0/json", "toml 0.10.0 pypi+https://pypi.org/pypi/toml/0.10.0/json", "attrs 19.3.0 pypi+https://pypi.org/pypi/attrs/19.3.0/json"]
+
+[[package]]
+id = 10
+name = "setuptools"
+version = "46.0.0"
+source = "pypi+https://pypi.org/pypi/setuptools/46.0.0/json"
+dependencies = []
+
+[[package]]
+id = 13
+name = "pathspec"
+version = "0.7.0"
+source = "pypi+https://pypi.org/pypi/pathspec/0.7.0/json"
+dependencies = []
+
+[[package]]
+id = 5
+name = "Saturn"
+version = "0.3.5"
+source = "pypi+https://pypi.org/pypi/Saturn/0.3.5/json"
+dependencies = ["pytz 2019.3.0 pypi+https://pypi.org/pypi/pytz/2019.3.0/json"]
+
+[[package]]
+id = 15
+name = "typed-ast"
+version = "1.4.1"
+source = "pypi+https://pypi.org/pypi/typed-ast/1.4.1/json"
+dependencies = []
+
+[[package]]
+id = 2
+name = "asgiref"
+version = "3.2.5"
+source = "pypi+https://pypi.org/pypi/asgiref/3.2.5/json"
+dependencies = []
+
+[[package]]
+id = 19
+name = "click"
+version = "7.1.1"
+source = "pypi+https://pypi.org/pypi/click/7.1.1/json"
+dependencies = []
+
+[[package]]
+id = 6
+name = "pytz"
+version = "2019.3.0"
+source = "pypi+https://pypi.org/pypi/pytz/2019.3.0/json"
+dependencies = []
+
+[[package]]
+id = 16
+name = "toml"
+version = "0.10.0"
+source = "pypi+https://pypi.org/pypi/toml/0.10.0/json"
+dependencies = []
+
+[[package]]
+id = 3
+name = "sqlparse"
+version = "0.3.1"
+source = "pypi+https://pypi.org/pypi/sqlparse/0.3.1/json"
+dependencies = []
+
+[[package]]
+id = 17
+name = "appdirs"
+version = "1.4.3"
+source = "pypi+https://pypi.org/pypi/appdirs/1.4.3/json"
+dependencies = []
+
+[metadata]
